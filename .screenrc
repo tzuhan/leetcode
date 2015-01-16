@@ -1,0 +1,34 @@
+#shell -${SHELL}
+#caption always "%n(%t) : %C"
+#defscrollback 1024
+#startup_message off
+
+chdir /home/gree/xgree/gundam/
+screen -t gundam
+chdir /home/gree/xgree/gundam/
+screen -t gundam
+
+chdir /home/gree/common/pub/lib/src/acm/Masters/
+screen -t Masters
+chdir /home/gree/common/pub/lib/src/acm/Masters/
+screen -t Masters
+
+chdir /home/gree/
+screen -t gree
+
+chdir /home/gree/xgree/gundam/
+screen -t DB
+screen -t logpage 
+screen -t others  
+chdir ~
+screen -t home    
+
+altscreen on
+term screen-256color
+bind ',' prev
+bind '.' next
+
+#change the hardstatus settings to give an window list at the bottom of the screen, with the time and date and with the current window highlighted
+hardstatus alwayslastline
+#hardstatus string '%{= kG}%-Lw%{= kW}%50> %n%f* %t%{= kG}%+Lw%< %{= kG}%-=%c:%s%{-}'
+hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %m-%d %{W}%c %{g}]'
