@@ -31,8 +31,8 @@ altscreen on
 term screen-256color
 bind ',' prev
 bind '.' next
-bind 'j' prev
-bind 'f' next
+bind 'f' prev
+bind 'j' next
 bindkey "^[[11~" select 0
 bindkey "^[[12~" select 1
 bindkey "^[[13~" select 2
