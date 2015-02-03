@@ -1,6 +1,3 @@
-[user]
-	name = TzuHan Hsu
-	email = hsu@geeplus.jp
 [alias]
 	co = checkout
 	br = branch
@@ -9,5 +6,9 @@
 	unstage = reset HEAD --
 	last = log -1 HEAD
 	loggraph = log --oneline --decorate --graph --all
+	ad = add -i
+	curbranch = rev-parse --abbrev-ref HEAD
 [credential]
 	helper = cache
+[color]
+	diff = always
