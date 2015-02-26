@@ -92,6 +92,9 @@ endif
 "Always show current position
 set ruler
 
+"Add line numbe
+"set nu
+
 " Height of the command bar
 set cmdheight=2
 
@@ -146,13 +149,10 @@ set foldcolumn=1
 " Enable syntax highlighting
 syntax enable 
 
-try
-    colorscheme desert
-catch
-endtry
+set t_Co=256
+colorscheme jellybeans
 
-set background=dark
-
+"set background=dark
 " Set extra options when running in GUI mode
 if has("gui_running")
     set guioptions-=T
@@ -430,3 +430,8 @@ function! <SID>BufcloseCloseIt()
      execute("bdelete! ".l:currentBufNum)
    endif
 endfunction
+
+"disable comment continuation
+autocmd Filetype * set formatoptions-=o
+autocmd Filetype * set formatoptions-=c
+autocmd Filetype * set formatoptions-=r

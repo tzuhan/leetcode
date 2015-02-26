@@ -91,22 +91,22 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-##get __git_ps1 argument from git-prompt.sh
-##if [ -f ~/myScript/.git-prompt.sh ]; then
-#    source ~/myScript/.git-prompt.sh
-#    export PS1='Geoff[\W]$(__git_ps1 "(%s)"):'
-##fi
-
-#export GIT_PS1_SHOWDIRTYSTATE=1
-#export PS1='\[\033[01;37m\]\u@\H\[\033[00;36m\]$(__git_ps1)\[\033[01;34m\]\w\[\033[01;33m\]\$\[\033[00m\]'
-
-
-## enable programmable completion features (you don't need to enable
-## this, if it's already enabled in /etc/bash.bashrc and /etc/profile
-## sources /etc/bash.bashrc).
-#if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
-#    . /etc/bash_completion
+#get __git_ps1 argument from git-prompt.sh
+#if [ -f ~/myScript/.git-prompt.sh ]; then
+    source ~/myScript/.git-prompt.sh
+    export PS1='Geoff[\W]$(__git_ps1 "(%s)"):'
 #fi
+
+export GIT_PS1_SHOWDIRTYSTATE=1
+export PS1='\[\033[01;37m\]\u@\H\[\033[00;36m\]$(__git_ps1)\[\033[01;34m\]\w\[\033[01;33m\]\$\[\033[00m\]'
+
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
+    . /etc/bash_completion
+fi
 
 ## create a ssh-agent program in the bachground and add ssh key in memory
 #eval `ssh-agent`
@@ -127,7 +127,9 @@ alias frontend='cd /home/gree/xgree/gundam/frontend/gundam'
 alias action='cd /home/gree/xgree/gundam/frontend/gundam/action'
 alias service='cd /home/gree/xgree/gundam/Service/Gundam'
 alias processor='cd /home/gree/xgree/gundam/Service/Gundam/Processor'
-alias xgree='cd /home/gree/xgree/gundam/'
 alias masters='cd /home/gree/common/pub/lib/src/acm/Masters'
+alias xgree='cd /home/gree/xgree/gundam/'
 alias gree='cd /home/gree'
 alias template='cd /home/gree/xgree/gundam/frontend/gundam/template/ja_JP/'
+alias findp='find -name "*.php" |xargs grep'
+alias testdb='mysql -ugmasters -pgundam20110901 -h172.17.98.2'
