@@ -1,0 +1,21 @@
+[user]
+	name = shikan-jyo
+	email = hsu@geeplus.jp
+[alias]
+	co = checkout
+	br = branch
+	cm = commit
+	st = status -u
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	loggraph = log --oneline --decorate --graph --all
+	ad = add -i
+	cmm = commit -m
+    curbranch = rev-parse --abbrev-ref HEAD
+    lcf = diff-tree --no-commit-id --name-only -r
+    diffn = diff --name-only
+    showf = show --pretty="format:" --name-only
+[credential]
+	helper = cache
+[color]
+	diff = always

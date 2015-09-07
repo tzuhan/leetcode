@@ -1,0 +1,14 @@
+hanGitDir/*
+.bash_history
+.bash_profile
+.cache/*
+.minttyrc
+.pearrc
+.ssh/*
+.vim/*
+.vim_mru_files
+.viminfo
+gree/*
+utility/*
+gokuto_original/*
+test1/*
