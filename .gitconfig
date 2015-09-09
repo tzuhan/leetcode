@@ -19,3 +19,5 @@
 	helper = cache
 [color]
 	diff = always
+[core]
+	editor = vim
