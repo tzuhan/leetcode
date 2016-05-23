@@ -10,5 +10,4 @@ hanGitDir/*
 .viminfo
 gree/*
 utility/*
-gokuto_original/*
-test1/*
+*.exe
