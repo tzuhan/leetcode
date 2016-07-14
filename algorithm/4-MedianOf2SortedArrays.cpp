@@ -6,6 +6,8 @@ using namespace std;
 int main(void){
     vector<int> nums1{1,3,5,7};
     vector<int> nums2{-1,2,4,9};
+    vector<int> nums1{1,3,5,10,11,12,13};
+    vector<int> nums2{-3,-1,0,2,4,8,9};
     int l1 = nums1.size(), l2=nums2.size(), m1, m2;
     int s1 = 0, s2 = 0, e1 = l1-1, e2 = l2-1;
     if(l1 == 0 && l2 == 0) std::cout<< "0" << endl;
