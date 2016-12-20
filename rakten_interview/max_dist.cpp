@@ -5,6 +5,8 @@
 using namespace std;
 
 int main(void){
+    int arr[] = {1, 7, 9, 17, 11, 13, 5, 3, 3};
+    vector<int> input (arr);
     i=0; j=n-1;
     while(i!=j){
         auto it_i = lower_bound(uniq.begin(), uniq.end(), A[i]);
