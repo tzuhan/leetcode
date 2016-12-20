@@ -34,6 +34,7 @@ int main(void){
         cout << mango_no[s-1];
         return 0;
     }
+    //Dijkstra algorithm
 
     for(int i=0; i<n; i++){
         int current = -1;
@@ -53,7 +54,7 @@ int main(void){
             }
         }
     }
-    vector<int> mango_count;
+    vector<int> mango_count(1, mango_no[s-1]);
     print_path(parent, mango_no, mango_count, t-1);
     sort(mango_count.begin(), mango_count.end());
     if(mango_count.empty()){
