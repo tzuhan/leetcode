@@ -51,8 +51,7 @@ int threeSumClosest(vector<int> v, int t){
                 } else {
                     if(distance(j, k) == 1){
                         update_result(min_dist, result, i, j, k, t);
-                        cout << result[0] << ", " << result[1] << ", " << result[2] << endl;
-                        return result[0] + result[1] + result[2];
+                        break;
                     }
                 }
             }
@@ -65,13 +64,13 @@ int threeSumClosest(vector<int> v, int t){
 int main(void){
     vector<int> input1{0,0,0,1,2,3};
     vector<int> input2{1,2,3,4,5};
-    vector<int> input3{-1,12,-3,-4,5};
+    vector<int> input3{1,2,4,8,16,32,64,128};
 
     int target;
     cin >> target;
     cout << "result" << threeSumClosest(input1, target) << endl;
     cout << "result" << threeSumClosest(input2, target) << endl;
-    cout << "result" << threeSumClosest(input3, target) << endl;
+    cout << "result" << threeSumClosest(input3, 82) << endl;
     return 0;
 }
 
