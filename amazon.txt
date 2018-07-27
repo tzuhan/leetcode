@@ -1,30 +1,76 @@
-1. Two Sum.cpp  
-5. Longest Palindromic Substring - Center Expand.cpp    
-5. Longest Palindromic Substring - DP.cpp   
-8. String to Integer(atoi).cpp  
-20. Valid Parentheses.cpp   
-21. Merge Two Sorted Lists.cpp  
-23. Merge K Sorted Lists - Priority Queue.cpp   
-23. Merge K Sorted Lists.cpp    
-48. Rotate Image.cpp    
-49. Group Anagrams- Sort .cpp   
-78. Subsets - Bit Manipulation.cpp  
-78. Subsets.cpp 
-89. Gray Code.cpp   
-98. Valid Binary Search Tree.cpp    
-100. Same Tree.cpp  
-102. Binary Tree Level Order Traversal - BFS.cpp    
-102. Binary Tree Level Order Traversal - DFS.cpp    
-155. Min Stack.cpp  
-160. Intersection of Two Linked Lists.cpp   
-167. Two Sum II - Input array is sorted.cpp
-186. Reverse Words in a String II.cpp   
-199. Binary Tree Right Side View.cpp    
-200. Number of Islands - BFS.cpp    
-200. Number of Islands - Union and Find.cpp 
-204. Count Primes.cpp   
-206. Reverse Linked List - Iterative.cpp    
-235. Lowest Common Ancestor of a Binary Search Tree - BST Property.cpp  
-235. Lowest Common Ancestor of a Binary Search Tree.cpp 
-239. Sliding Maximum Window - deque.cpp 
-242. Valid Anagram.cpp  
+Amazon(75)
+v 1 Two Sum
+v 2 Add Two Numbers
+v 3 Longest Substring Without Repeating Characters
+v 5 Longest Palindromic Substring
+v 8 String to Integer (atoi)
+v 15 3Sum
+17 Letter Combinations of a Phone Number
+v 20 Valid Parentheses
+v 21 Merge Two Sorted Lists
+23 Merge k Sorted Lists
+42 Trapping Rain Water
+48 Rotate Image
+49 Group Anagrams
+73 Set Matrix Zeroes
+78 Subsets
+89 Gray Code
+98 Validate Binary Search Tree
+102 Binary Tree Level Order Traversal
+v 119 Pascal’s Triangle II
+v 121 Best Time to Buy and Sell Stock
+126 Word Ladder II
+127 Word Ladder
+138 Copy List with Random Pointer
+139 Word Break
+141 Linked List Cycle
+146 LRU Cache
+155 Min Stack
+160 Intersection of Two Linked Lists
+167 Two Sum II – Input array is sorted
+186 Reverse Words in a String II
+199 Binary Tree Right Side View
+200 Number of Islands
+v 204 Count Primes
+v 206 Reverse Linked List
+215 Kth Largest Element in an Array
+234 Palindrome Linked List
+235 Lowest Common Ancestor of a Binary Search Tree
+236 Lowest Common Ancestor of a Binary Tree
+v 238 Product of Array Except Self
+239 Sliding Window Maximum
+240 Search a 2D Matrix II
+v 242 Valid Anagram
+297 Serialize and Deserialize Binary Tree
+355 Design Twitter 2
+380 Insert Delete GetRandom O(1)
+v 387 First Unique Character in a String
+396 Rotate Function
+414 Third Maximum Number
+438 Find All Anagrams in a String
+449 Serialize and Deserialize BST
+451 Sort Characters By Frequency
+459 Repeated Substring Pattern
+460 LFU Cache508 Most Frequent Subtree Sum
+516 Longest Palindromic Subsequence
+517 Super Washing Machines
+529 Minesweeper
+532 K-diff Pairs in an Array
+534 Design TinyURL
+535 Encode and Decode TinyURL
+536 Construct Binary Tree from String
+537 Complex Number Multiplication
+538 Convert BST to Greater Tree
+545 Boundary of Binary Tree
+553 Optimal Division
+579 Find Cumulative Salary of an Employee
+606 Construct String from Binary Tree
+v 617 Merge Two Binary Trees
+640 Solve the Equation
+645 Set Mismatch
+646 Maximum Length of Pair Chain
+661 Image Smoother
+662 Maximum Width of Binary Tree
+663 Equal Tree Partition
+675 Cut Off Trees for Golf Event
+682 Baseball Game
