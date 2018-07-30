@@ -35,7 +35,7 @@ func letterCombinationsHelper(num rune, result []string) []string {
 	} else if num == 8 {
 		candidate = []rune{num + 96 + 2*(num-2), num + 97 + 2*(num-2), num + 98 + 2*(num-2)}
 	} else if num == 9 {
-		candidate = []rune{num + 96 + 2*(num-2), num + 97 + 2*(num-2), num + 98 + 2*(num-2)}
+		candidate = []rune{num + 96 + 2*(num-2), num + 97 + 2*(num-2), num + 98 + 2*(num-2), num + 99 + 2*(num-2)}
 	} else if num == 1 {
 		candidate = append(candidate, rune('*'))
 	} else if num == 0 {
