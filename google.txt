@@ -4,9 +4,9 @@ v 10 Regular Expression Matching
 v 17 Letter Combinations of a Phone Number
 v 20 Valid Parentheses
 v 22 Generate Parentheses
-23 Merge k Sorted Lists
+v 23 Merge k Sorted Lists
 31 Next Permutation
-42 Trapping Rain Water
+v 42 Trapping Rain Water
 44 Wildcard Matching
 50 Pow(x, n)
 54 Spiral Matrix
@@ -15,7 +15,7 @@ v 22 Generate Parentheses
 v 66 Plus One
 v 128 Longest Consecutive Sequence
 133 Clone Graph
-139 Word Break
+v 139 Word Break
 140 Word Break II
 146 LRU Cache
 155 Min Stack

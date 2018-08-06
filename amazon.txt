@@ -8,8 +8,8 @@ v 15 3Sum
 v 17 Letter Combinations of a Phone Number
 v 20 Valid Parentheses
 v 21 Merge Two Sorted Lists
-23 Merge k Sorted Lists
-42 Trapping Rain Water
+v 23 Merge k Sorted Lists
+v 42 Trapping Rain Water
 48 Rotate Image
 49 Group Anagrams
 73 Set Matrix Zeroes
@@ -22,7 +22,7 @@ v 121 Best Time to Buy and Sell Stock
 126 Word Ladder II
 127 Word Ladder
 138 Copy List with Random Pointer
-139 Word Break
+v 139 Word Break
 141 Linked List Cycle
 146 LRU Cache
 155 Min Stack
