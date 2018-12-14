@@ -1,4 +1,4 @@
-Amazon(75)
+Amazon(55/75)
 v 1 Two Sum
 v 2 Add Two Numbers
 v 3 Longest Substring Without Repeating Characters
