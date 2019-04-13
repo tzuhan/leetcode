@@ -1,8 +1,8 @@
-Top liked and interviewed questions: (106/178)
+Top liked and interviewed questions: (77/178)
 v 1	Two Sum    		39.4%	Easy	
 v 2	Add Two Numbers    		29.8%	Medium	
 v 3	Longest Substring Without Repeating Characters    		25.5%	Medium	
-4	Median of Two Sorted Arrays    		24.6%	Hard	
+v 4	Median of Two Sorted Arrays    		24.6%	Hard	
 v 5	Longest Palindromic Substring    		25.8%	Medium	
 v 7	Reverse Integer    		24.7%	Easy	
 v 8	String to Integer (atoi)    		14.3%	Medium	
@@ -30,7 +30,7 @@ v 38	Count and Say    		38.6%	Easy
 v 41	First Missing Positive    		27.4%	Hard	
 v 42	Trapping Rain Water    		40.4%	Hard	
 44	Wildcard Matching    		22.0%	Hard	
-46	Permutations    		51.7%	Medium	
+v 46	Permutations    		51.7%	Medium	
 48	Rotate Image    		45.3%	Medium	
 49	Group Anagrams    		43.0%	Medium	
 50	Pow(x, n)    		27.0%	Medium	
@@ -112,7 +112,7 @@ v 217	Contains Duplicate    		49.7%	Easy
 221 Maximal Square    		31.6%	Medium
 v 226 Invert Binary Tree    		56.0%	Easy
 227	Basic Calculator II    		31.9%	Medium	
-230	Kth Smallest Element in a BST    		48.6%	Medium	
+v 230	Kth Smallest Element in a BST    		48.6%	Medium	
 234	Palindrome Linked List    		34.7%	Easy	
 236	Lowest Common Ancestor of a Binary Tree    		33.7%	Medium	
 v 237	Delete Node in a Linked List    		50.6%	Easy	
@@ -168,7 +168,7 @@ v 448 Find All Numbers Disappeared in an Array    		51.9%	Easy
 v 454	4Sum II    		49.0%	Medium	
 v 461 Hamming Distance    		69.6%	Easy
 494 Target Sum    		44.4%	Medium
-538 Convert BST to Greater Tree    		49.2%	Easy
+v 538 Convert BST to Greater Tree    		49.2%	Easy
 543 Diameter of Binary Tree    		45.6%	Easy
 560 Subarray Sum Equals K    		40.7%	Medium
 572 Subtree of Another Tree    		40.7%	Easy
@@ -176,4 +176,4 @@ v 461 Hamming Distance    		69.6%	Easy
 v 617 Merge Two Binary Trees    		68.2%	Easy
 621 Task Scheduler    		43.3%	Medium
 v 647 Palindromic Substrings    		54.8%	Medium
-771 Jewels and Stones    		82.0%	Easy
+v 771 Jewels and Stones    		82.0%	Easy
