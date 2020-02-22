@@ -12,13 +12,13 @@ v 13	Roman to Integer    		50.5%	Easy
 v 14	Longest Common Prefix    		32.4%	Easy	
 v 15	3Sum    		22.5%	Medium	
 v 17	Letter Combinations of a Phone Number    		39.2%	Medium	
-19	Remove Nth Node From End of List    		33.7%	Medium	
+v 19	Remove Nth Node From End of List    		33.7%	Medium	
 v 20	Valid Parentheses    		35.2%	Easy	
 v 21	Merge Two Sorted Lists    		44.4%	Easy	
 v 22	Generate Parentheses    		51.6%	Medium	
 v 23	Merge k Sorted Lists    		31.5%	Hard	
 v 26	Remove Duplicates from Sorted Array    		38.6%	Easy	
-28	Implement strStr()    		30.5%	Easy	
+v 28	Implement strStr()    		30.5%	Easy	
 29	Divide Two Integers    		15.8%	Medium	
 31 Next Permutation    		29.6%	Medium
 32 Longest Valid Parentheses    		24.4%	Hard
@@ -31,8 +31,8 @@ v 41	First Missing Positive    		27.4%	Hard
 v 42	Trapping Rain Water    		40.4%	Hard	
 44	Wildcard Matching    		22.0%	Hard	
 v 46	Permutations    		51.7%	Medium	
-48	Rotate Image    		45.3%	Medium	
-49	Group Anagrams    		43.0%	Medium	
+v 48	Rotate Image    		45.3%	Medium	
+v 49	Group Anagrams    		43.0%	Medium	
 50	Pow(x, n)    		27.0%	Medium	
 v 53	Maximum Subarray    		42.0%	Easy	
 v 54	Spiral Matrix    		28.9%	Medium	
@@ -45,9 +45,9 @@ v 69	Sqrt(x)    		29.9%	Easy
 v 70	Climbing Stairs    		42.5%	Easy	
 72 Edit Distance    		35.3%	Hard
 73	Set Matrix Zeroes    		38.2%	Medium	
-75	Sort Colors    		40.6%	Medium	
-76	Minimum Window Substring    		29.0%	Hard	
-78	Subsets    		49.2%	Medium	
+v 75	Sort Colors    		40.6%	Medium	
+v 76	Minimum Window Substring    		29.0%	Hard	
+v 78	Subsets    		49.2%	Medium	
 79	Word Search    		29.6%	Medium	
 84	Largest Rectangle in Histogram    		29.4%	Hard	
 85 Maximal Rectangle    		31.6%	Hard
@@ -55,7 +55,7 @@ v 88	Merge Sorted Array    		34.0%	Easy
 91	Decode Ways    		21.4%	Medium	
 v 94	Binary Tree Inorder Traversal    		53.6%	Medium	
 96 Unique Binary Search Trees    		44.1%	Medium
-98	Validate Binary Search Tree    		24.8%	Medium	
+v 98	Validate Binary Search Tree    		24.8%	Medium	
 v 101	Symmetric Tree    		42.0%	Easy	
 102	Binary Tree Level Order Traversal    		45.8%	Medium	
 103	Binary Tree Zigzag Level Order Traversal    		39.3%	Medium	
@@ -68,7 +68,7 @@ v 118	Pascal's Triangle    		43.2%	Easy
 v 121	Best Time to Buy and Sell Stock    		45.2%	Easy	
 v 122	Best Time to Buy and Sell Stock II    		50.0%	Easy	
 124	Binary Tree Maximum Path Sum    		28.6%	Hard	
-125	Valid Palindrome    		29.3%	Easy	
+v 125	Valid Palindrome    		29.3%	Easy	
 127	Word Ladder    		21.9%	Medium	
 v 128	Longest Consecutive Sequence    		40.1%	Hard	
 130	Surrounded Regions    		21.4%	Medium	
@@ -78,15 +78,15 @@ v 136	Single Number    		57.8%	Easy
 138	Copy List with Random Pointer    		25.6%	Medium	
 v 139	Word Break    		33.4%	Medium	
 140	Word Break II    		26.0%	Hard	
-141	Linked List Cycle    		34.7%	Easy	
+v 141	Linked List Cycle    		34.7%	Easy	
 142 Linked List Cycle II    		29.9%	Medium
-146	LRU Cache    		22.7%	Hard	
-148	Sort List    		32.8%	Medium	
+v 146	LRU Cache    		22.7%	Hard	
+v 148	Sort List    		32.8%	Medium	
 149	Max Points on a Line    		15.4%	Hard	
 150	Evaluate Reverse Polish Notation    		30.6%	Medium	
 152	Maximum Product Subarray    		28.0%	Medium	
-155	Min Stack    		34.3%	Easy	
-160	Intersection of Two Linked Lists    		30.9%	Easy	
+v 155	Min Stack    		34.3%	Easy	
+v 160	Intersection of Two Linked Lists    		30.9%	Easy	
 162	Find Peak Element    		40.2%	Medium	
 163	Missing Ranges    		22.8%	Medium	
 166	Fraction to Recurring Decimal    		18.8%	Medium	
@@ -98,12 +98,12 @@ v 189	Rotate Array    		27.8%	Easy
 v 190	Reverse Bits    		29.2%	Easy	
 v 191	Number of 1 Bits    		41.0%	Easy	
 v 198	House Robber    		40.5%	Easy	
-200	Number of Islands    		39.0%	Medium	
+v 200	Number of Islands    		39.0%	Medium	
 v 202	Happy Number    		43.5%	Easy	
 v 204	Count Primes    		27.5%	Easy	
 v 206	Reverse Linked List    		51.0%	Easy	
 207	Course Schedule    		35.6%	Medium	
-208	Implement Trie (Prefix Tree)    		35.2%	Medium	
+v 208	Implement Trie (Prefix Tree)    		35.2%	Medium	
 210	Course Schedule II    		32.6%	Medium	
 212	Word Search II    		26.6%	Hard	
 215	Kth Largest Element in an Array    		44.3%	Medium	
@@ -113,7 +113,7 @@ v 217	Contains Duplicate    		49.7%	Easy
 v 226 Invert Binary Tree    		56.0%	Easy
 227	Basic Calculator II    		31.9%	Medium	
 v 230	Kth Smallest Element in a BST    		48.6%	Medium	
-234	Palindrome Linked List    		34.7%	Easy	
+v 234	Palindrome Linked List    		34.7%	Easy	
 236	Lowest Common Ancestor of a Binary Tree    		33.7%	Medium	
 v 237	Delete Node in a Linked List    		50.6%	Easy	
 v 238	Product of Array Except Self    		52.7%	Medium	
@@ -138,7 +138,7 @@ v 300	Longest Increasing Subsequence    		39.7%	Medium
 309 Best Time to Buy and Sell Stock with Cooldown    		43.0%	Medium
 312 Burst Balloons    		45.3%	Hard
 315	Count of Smaller Numbers After Self    		36.2%	Hard	
-322	Coin Change    		27.9%	Medium	
+v 322	Coin Change    		27.9%	Medium	
 324	Wiggle Sort II    		27.0%	Medium	
 v 326	Power of Three    		41.1%	Easy	
 v 328	Odd Even Linked List    		47.2%	Medium	
