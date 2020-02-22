@@ -135,44 +135,51 @@ v 171	Excel Sheet Column Number    		50.2%	Easy
 285	Inorder Successor in BST    		32.9%	Medium	
 v 66	Plus One    		40.2%	Easy	
 v 217	Contains Duplicate    		49.7%	Easy	
+----freq too low---
 251	Flatten 2D Vector    		42.9%	Medium	
 v 237	Delete Node in a Linked List    		50.6%	Easy	
 v 371	Sum of Two Integers    		51.2%	Easy	
 v 454	4Sum II    		49.0%	Medium	
 v 172	Factorial Trailing Zeroes    		37.0%	Easy	
 v 191	Number of 1 Bits    		41.0%	Easy	
+v 190	Reverse Bits    		29.2%	Easy	
 308	Range Sum Query 2D - Mutable    		29.8%	Hard	
 v 326	Power of Three    		41.1%	Easy	
+-------------------
 
 
-31 Next Permutation    		29.6%	Medium
-32 Longest Valid Parentheses    		24.4%	Hard
-39 Combination Sum    		45.1%	Medium
-64 Minimum Path Sum    		44.2%	Medium
-72 Edit Distance    		35.3%	Hard
-85 Maximal Rectangle    		31.6%	Hard
-96 Unique Binary Search Trees    		44.1%	Medium
-114 Flatten Binary Tree to Linked List    		39.9%	Medium
-142 Linked List Cycle II    		29.9%	Medium
-v 190	Reverse Bits    		29.2%	Easy	
-221 Maximal Square    		31.6%	Medium
-v 226 Invert Binary Tree    		56.0%	Easy
-301 Remove Invalid Parentheses    		37.4%	Hard
-309 Best Time to Buy and Sell Stock with Cooldown    		43.0%	Medium
-312 Burst Balloons    		45.3%	Hard
-337 House Robber III    		46.4%	Medium
-v 338 Counting Bits    		63.3%	Medium
-394 Decode String    		42.9%	Medium
-v 406 Queue Reconstruction by Height    		57.8%	Medium
-416 Partition Equal Subset Sum    		39.2%	Medium 437 Path Sum III    		41.1%	Easy 438 Find All Anagrams in a String    		35.3%	Easy v 448 Find All Numbers Disappeared in an Array    		51.9%	Easy
-v 461 Hamming Distance    		69.6%	Easy
-494 Target Sum    		44.4%	Medium
-v 538 Convert BST to Greater Tree    		49.2%	Easy
-543 Diameter of Binary Tree    		45.6%	Easy
+---Most liked questions-----
 560 Subarray Sum Equals K    		40.7%	Medium
-572 Subtree of Another Tree    		40.7%	Easy
-581 Shortest Unsorted Continuous Subarray    		29.4%	Easy
-v 617 Merge Two Binary Trees    		68.2%	Easy
+301 Remove Invalid Parentheses    		37.4%	Hard
+85 Maximal Rectangle    		31.6%	Hard
+v 31 Next Permutation    		29.6%	Medium
+394 Decode String    		42.9%	Medium
+221 Maximal Square    		31.6%	Medium
+32 Longest Valid Parentheses    		24.4%	Hard
 621 Task Scheduler    		43.3%	Medium
+72 Edit Distance    		35.3%	Hard
+312 Burst Balloons    		45.3%	Hard
+v 739 Daily Temperatures        62.0%   Medium  
 v 647 Palindromic Substrings    		54.8%	Medium
-v 771 Jewels and Stones    		82.0%	Easy
+543 Diameter of Binary Tree    		45.6%	Easy
+v 438 Find All Anagrams in a String    		35.3%	Easy
+v 39 Combination Sum    		45.1%	Medium
+64 Minimum Path Sum    		44.2%	Medium
+96 Unique Binary Search Trees    		44.1%	Medium
+437 Path Sum III    		41.1%	Easy
+---freq too low---
+v 406 Queue Reconstruction by Height    		57.8%	Medium
+114 Flatten Binary Tree to Linked List    		39.9%	Medium
+416 Partition Equal Subset Sum    		39.2%	Medium
+v 226 Invert Binary Tree    		56.0%	Easy
+309 Best Time to Buy and Sell Stock with Cooldown    		43.0%	Medium
+v 448 Find All Numbers Disappeared in an Array    		51.9%	Easy
+337 House Robber III    		46.4%	Medium
+494 Target Sum    		44.4%	Medium
+v 142 Linked List Cycle II    		29.9%	Medium
+v 617 Merge Two Binary Trees    		68.2%	Easy
+581 Shortest Unsorted Continuous Subarray    		29.4%	Easy
+v 338 Counting Bits    		63.3%	Medium
+------------------
+
+572 Subtree of Another Tree    		40.7%	Easy

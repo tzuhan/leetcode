@@ -1,0 +1,52 @@
+1   Two Sum         45.1%   Easy    
+200 Number of Islands           44.7%   Medium  
+146 LRU Cache           29.9%   Medium  
+2   Add Two Numbers         32.8%   Medium  
+42  Trapping Rain Water         46.8%   Hard    
+1192    Critical Connections in a Network           48.3%   Hard    
+5   Longest Palindromic Substring           28.7%   Medium  
+21  Merge Two Sorted Lists          51.3%   Easy    
+20  Valid Parentheses           38.1%   Easy    
+3   Longest Substring Without Repeating Characters          29.6%   Medium  
+23  Merge k Sorted Lists            38.2%   Hard    
+138 Copy List with Random Pointer           32.5%   Medium  
+121 Best Time to Buy and Sell Stock         49.4%   Easy    
+273 Integer to English Words            25.9%   Hard    
+297 Serialize and Deserialize Binary Tree           45.1%   Hard    
+253 Meeting Rooms II            44.7%   Medium  
+994 Rotting Oranges         47.2%   Easy    
+937 Reorder Data in Log Files           53.7%   Easy    
+973 K Closest Points to Origin          61.7%   Medium  
+49  Group Anagrams          52.6%   Medium  
+380 Insert Delete GetRandom O(1)            45.3%   Medium  
+240 Search a 2D Matrix II           42.4%   Medium  
+127 Word Ladder         27.5%   Medium  
+642 Design Search Autocomplete System           42.4%   Hard    
+295 Find Median from Data Stream            41.2%   Hard    
+572 Subtree of Another Tree         43.7%   Easy    
+212 Word Search II          32.0%   Hard    
+140 Word Break II           29.7%   Hard    
+692 Top K Frequent Words            49.2%   Medium  
+347 Top K Frequent Elements         58.9%   Medium  
+460 LFU Cache           32.3%   Hard    
+819 Most Common Word            43.7%   Easy    
+239 Sliding Window Maximum          40.8%   Hard    
+348 Design Tic-Tac-Toe          52.7%   Medium  
+126 Word Ladder II          20.4%   Hard    
+472 Concatenated Words          40.3%   Hard    
+957 Prison Cells After N Days           39.2%   Medium  
+99  Recover Binary Search Tree          37.4%   Hard    
+545 Boundary of Binary Tree         37.9%   Medium  
+------freq too low-----
+588 Design In-Memory File System            43.2%   Hard    
+456 132 Pattern         28.6%   Medium  
+1268    Search Suggestions System           59.3%   Medium  
+1167    Minimum Cost to Connect Sticks          61.6%   Medium  
+694 Number of Distinct Islands          54.2%   Medium  
+1000    Minimum Cost to Merge Stones            38.6%   Hard    
+1044    Longest Duplicate Substring         25.1%   Hard    
+866 Prime Palindrome            23.8%   Medium  
+1102    Path With Maximum Minimum Value         49.2%   Medium  
+1152    Analyze User Website Visit Pattern          42.4%   Medium  
+1099    Two Sum Less Than K         60.5%   Easy    
+
