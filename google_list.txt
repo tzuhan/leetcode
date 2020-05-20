@@ -1,51 +1,45 @@
-1    Two Sum         45.1%   Easy    
-1007 Minimum Domino Rotations For Equal Row          50.1%   Medium  
-68   Text Justification          25.9%   Hard    
-642  Design Search Autocomplete System           42.4%   Hard    
-1048 Longest String Chain            53.0%   Medium  
-295  Find Median from Data Stream            41.2%   Hard    
-221  Maximal Square          35.3%   Medium  
-430  Flatten a Multilevel Doubly Linked List         48.9%   Medium  
-362  Design Hit Counter          62.1%   Medium  
-315  Count of Smaller Numbers After Self         40.6%   Hard    
-410  Split Array Largest Sum         43.6%   Hard    
-843  Guess the Word          45.4%   Hard    
-465  Optimal Account Balancing           45.4%   Hard    
-317  Shortest Distance from All Buildings            40.1%   Hard    
-1057 Campus Bikes            58.2%   Medium  
-679  24 Game         44.9%   Hard    
-329  Longest Increasing Path in a Matrix         42.1%   Hard    
-222  Count Complete Tree Nodes           40.7%   Medium  
-359  Logger Rate Limiter         68.6%   Easy    
-1055 Shortest Way to Form String         56.8%   Medium  
-593  Valid Square            41.8%   Medium  
-862  Shortest Subarray with Sum at Least K           23.2%   Hard    
-1153 String Transforms Into Another String           34.8%   Hard    
-489  Robot Room Cleaner          67.6%   Hard    
-727  Minimum Window Subsequence          40.6%   Hard    
-939  Minimum Area Rectangle          52.1%   Medium  
-1110 Delete Nodes And Return Forest          65.0%   Medium  
-1011 Capacity To Ship Packages Within D Days         56.6%   Medium  
-363  Max Sum of Rectangle No Larger Than K           36.3%   Hard    
-1170 Compare Strings by Frequency of the Smallest Character          58.4%   Easy    
-801  Minimum Swaps To Make Sequences Increasing          37.9%   Medium  
-889  Construct Binary Tree from Preorder and Postorder Traversal         64.3%   Medium  
-1088 Confusing Number II         40.5%   Hard    
-752  Open the Lock           49.2%   Medium  
-299  Bulls and Cows          41.4%   Easy    
-1146 Snapshot Array          35.9%   Medium  
-809  Expressive Words            46.4%   Medium  
-1219 Path with Maximum Gold          63.4%   Medium  
-482  License Key Formatting          42.6%   Easy    
-659  Split Array into Consecutive Subsequences           42.7%   Medium  
-1231 Divide Chocolate            50.9%   Hard    
-------freq low-----
-846  Hand of Straights           51.6%   Medium  
-271  Encode and Decode Strings           30.0%   Medium  
-1074 Number of Submatrices That Sum to Target            60.3%   Hard    
-835  Image Overlap           56.2%   Medium  
-743  Network Delay Time          45.2%   Medium  
-951  Flip Equivalent Binary Trees            65.5%   Medium  
-681  Next Closest Time           43.9%   Medium  
-552  Student Attendance Record II            35.2%   Hard    
-946  Validate Stack Sequences            58.7%   Medium  
+High/Mid freq questions (11/41
+v 1007    Minimum Domino Rotations For Equal Row    49.7%   Medium 
+v 843 Guess the Word    45.4%   Hard   
+v 809 Expressive Words    46.6%   Medium 
+v 1088    Confusing Number II    42.0%   Hard   
+v 1153    String Transforms Into Another String    35.4%   Hard   
+v 1110    Delete Nodes And Return Forest    65.6%   Medium 
+v 846 Hand of Straights    52.2%   Medium 
+v 659 Split Array into Consecutive Subsequences    42.9%   Medium 
+1231    Divide Chocolate    50.7%   Hard   
+946 Validate Stack Sequences    59.2%   Medium 
+363 Max Sum of Rectangle No Larger Than K    36.6%   Hard   
+v 1   Two Sum    45.2%   Easy   
+727 Minimum Window Subsequence    40.8%   Hard   
+359 Logger Rate Limiter    69.0%   Easy   
+465 Optimal Account Balancing    45.7%   Hard   
+642 Design Search Autocomplete System    43.0%   Hard   
+736 Parse Lisp Expression    46.3%   Hard   
+801 Minimum Swaps To Make Sequences Increasing    38.2%   Medium 
+752 Open the Lock    49.9%   Medium 
+430 Flatten a Multilevel Doubly Linked List    50.2%   Medium 
+299 Bulls and Cows    41.6%   Easy   
+679 24 Game    45.3%   Hard   
+1146    Snapshot Array    35.9%   Medium 
+1320    Minimum Distance to Type a Word Using Two Fingers    58.3%   Hard   
+v 222 Count Complete Tree Nodes    41.6%   Medium 
+1074    Number of Submatrices That Sum to Target    59.7%   Hard   
+221 Maximal Square    35.6%   Medium 
+68  Text Justification    26.5%   Hard   
+v 1057    Campus Bikes    58.3%   Medium 
+315 Count of Smaller Numbers After Self    40.9%   Hard   
+939 Minimum Area Rectangle    52.0%   Medium 
+862 Shortest Subarray with Sum at Least K    23.4%   Hard   
+489 Robot Room Cleaner    68.1%   Hard   
+1048    Longest String Chain    53.6%   Medium 
+951 Flip Equivalent Binary Trees    65.5%   Medium 
+362 Design Hit Counter    62.5%   Medium 
+1055    Shortest Way to Form String    56.7%   Medium 
+399 Evaluate Division    50.3%   Medium 
+835 Image Overlap    57.2%   Medium 
+723 Candy Crush    67.2%   Medium 
+354 Russian Doll Envelopes
+
+-----------------
+
