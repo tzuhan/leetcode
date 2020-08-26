@@ -1,0 +1,15 @@
+http://206.81.6.248:12306/leetcode/Amazon/algorithm?page=1&difficulty=100&is_locked=0&order=0&frequency=100
+
+https://leetcode.com/problems/lru-cache/
+https://leetcode.com/problems/sliding-window-maximum/
+https://leetcode.com/problems/daily-temperatures/
+
+https://www.ptt.cc/bbs/Oversea_Job/M.1534782320.A.6CD.html
+
+https://www.cnblogs.com/grandyang/p/4606334.html
+https://github.com/grandyang/leetcode
+
+
+
+https://www.hiredintech.com/classrooms/system-design/lesson/52
+https://github.com/qiu-hanqiao/system-design-primer/blob/master/README.md
